@@ -1,3 +1,5 @@
 # yapay-zeka
-Samting diccordy
-Burda şiyler olacak 
+Samting diccordy.
+
+Burda şiyler olacak.
+
