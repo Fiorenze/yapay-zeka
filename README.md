@@ -1,0 +1,2 @@
+# yapay-zeka
+Samting diccordy
